@@ -1,7 +1,7 @@
 ### Hi there, I'm Muratcan Agiç 👋
 <ul>
   <li> :computer: I started learning coding in 2008 with C#, C++, Matlab. But coding was my hobby until now. </li>
-  <li>:page_facing_up: I have decided to become a professional developer in web. So i am currently delevoping MVC projects that solve real life problems. </li>
+  <li>:page_facing_up: I have decided to work in web development. So i am currently working on MVC projects. </li>
   <li>:milky_way: I am learning React, Javascript at the moment.</li>
   <li><a href="https://www.youtube.com/watch?v=7D291CGcmKk&t=1s" target="_blank">
     <span>:video_game: You can also check out my game development hobby</span>
